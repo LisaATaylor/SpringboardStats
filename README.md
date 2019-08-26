@@ -1,1 +1,1 @@
-# SpringboardStats
+# Springboard: Statistics exercises
